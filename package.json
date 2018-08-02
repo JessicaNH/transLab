@@ -1,0 +1,16 @@
+{
+  "name": "translab",
+  "version": "1.0.0",
+  "description": "nueva version de translab",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "validador",
+    "tarjeta",
+    "bip"
+  ],
+  "author": "Jessica Navarro",
+  "license": "ISC"
+}
