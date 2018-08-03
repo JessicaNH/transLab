@@ -44,12 +44,9 @@ describe('calcular tarifa', ()=>{
                   
     });
     it('Debería retornar 40 para el saldo inicial 800 con tarifa alta 760', ()=>{ 
-    assert.equal(validatePassword("12345678"), true); 
-    assert.equal(validatePassword("jfgk1234"), false);
-               
+    assert.equal(calculate(800,760), 40);    
     });
-  });
-      
+  });      
       
 });
 
