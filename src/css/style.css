@@ -1,0 +1,38 @@
+body {
+  background-color: #3E3F41;
+}
+.container-fluid{
+  text-align: center;
+  text-align: justify;
+}
+.img{
+ 
+  text-align: justify;
+}
+.text {
+  font-family: 'Anton', sans-serif;
+  color: #F6A800;
+  text-align: center
+}
+.btn-primary{
+  width: 100%;
+  background-color: #F6A800;
+  color: #3E3F41;
+  border-radius: 0%;
+}
+.form-control{
+  top:20%;
+  border-radius: 0%;
+}
+.text1{
+  text-align: left;
+  color: white;
+}
+.text2{
+  color:white;
+  text-align: left;
+}
+.text3{
+  color:#F6A800;
+  text-align: left;
+}
