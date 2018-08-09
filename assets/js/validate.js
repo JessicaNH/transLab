@@ -15,7 +15,7 @@ btnInit.addEventListener('click', () => {
     alert("La contaseña debe tener 8 caracteres");
   }
   else if(isNaN(password)){
-    alert("Debe ser solo números");
+    alert("Deben ser solo números");
     return false;
   }
   

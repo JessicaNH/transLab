@@ -1,6 +1,6 @@
 const assert = require('chai').assert;
 global.window = global;
-require('../assets/js/validate'); //Sólo enlaza el archivo, parecido al script de html
+require('../js/validate'); //Sólo enlaza el archivo, parecido al script de html
 
 describe('Validar password', ()=>{ //Describe lo que habrá dentro de cada función
     describe('Debería verificar si tiene un maximo caracteres', ()=>{
